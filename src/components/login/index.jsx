@@ -1,4 +1,4 @@
-import styles from "login.scss"
+import "./login.scss";
 
 function Login(){
     //Laura crie aqui a tela de login :)
